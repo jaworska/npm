@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  background-color: #bada55;
+  color: black;
+  font-size: 100px; }
+  body p {
+    font-size: 10px; }
